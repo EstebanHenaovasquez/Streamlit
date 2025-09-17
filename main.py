@@ -9,7 +9,7 @@ Aquí encontrarás información sobre su biografía, discografía y un análisis
 """)
 
 st.image(
-    "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bad_Bunny_2019.png",
+    "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
     caption="Bad Bunny en concierto",
     use_container_width=True
 )
